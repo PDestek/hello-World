@@ -1,2 +1,3 @@
 # hello-World
-Just another repository
+
+Im Philipp and try to learn more about Data Science at John Hopkins University. 
